@@ -1,5 +1,5 @@
 # Hello, I'm Aaron Hanna
-<a href="www.linkedin.com/in/aaron-hanna98900"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aaron-hanna98900"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
@@ -8,7 +8,7 @@ I am gradute of FAMU  with a profound interest in technology and a dedication to
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a Cybersecurity Analyst.
+My journey in Computer information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a Cybersecurity Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -30,6 +30,8 @@ My journey in computer information Systems has led me to develop a passion for c
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Packet Tracer-845EC2?&style=for-the-badge&logo=Packettracer&logoColor=white" />
+    
 </div>
 
 ### Endpoint
@@ -43,6 +45,13 @@ My journey in computer information Systems has led me to develop a passion for c
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### CLOUD 
+<div>
+
+
+    
 </div>
 
 ## Certifications
