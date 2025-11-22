@@ -5,10 +5,15 @@ Motivated IT Support Specialist with hands-on experience in troubleshooting Wind
 
 ## TECHNICAL SKILLS
 Operating Systems: Windows 10/11, Windows Server, macOS
+
 Ticketing Systems: ServiceNow, Jira Service Management
+
 Networking: TCP/IP, DNS, DHCP, Subnetting, Ping/Tracert/Nslookup
+
 Directory Services: Active Directory, Group Policy, User/Group Management
+
 Tools: VMware/VirtualBox, Cisco Packet Tracer
+
 Soft Skills: Customer Service, Documentation, Communication, Problem Solving
 
 
