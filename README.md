@@ -1,29 +1,29 @@
 # Hello, I'm Aaron Hanna
 <a href="https://www.linkedin.com/in/aaron-hanna98900"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Motivated IT Support Specialist with hands-on experience in troubleshooting Windows/macOS, Active Directory administration, ticketing systems (ServiceNow/Jira), and small office networking. Strong communication skills with a customer-focused approach to resolving technical issues. Experienced in building real-world labs and support simulations that mirror enterprise IT environments
 
-I am gradute of FAMU  with a profound interest in technology and a dedication to solving complex problems.
+## TECHNICAL SKILLS
+Operating Systems: Windows 10/11, Windows Server, macOS
+Ticketing Systems: ServiceNow, Jira Service Management
+Networking: TCP/IP, DNS, DHCP, Subnetting, Ping/Tracert/Nslookup
+Directory Services: Active Directory, Group Policy, User/Group Management
+Tools: VMware/VirtualBox, Cisco Packet Tracer
+Soft Skills: Customer Service, Documentation, Communication, Problem Solving
 
-## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in Computer information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a Cybersecurity Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects/Homelabs 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ahanna1997/Detection-Lab.git">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ahanna1997/Detection-Lab-2.git">Detection Lab 2</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| IT Help Desk Ticketing Simulation in ServiceNow | SOC Automation Lab|
+| Windows + Active Directory Troubleshooting Lab  | SOC Automation Lab|
+| Small Office Network Build & Troubleshooting Guide | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+
 
 ### Network
 <div>
@@ -64,6 +64,3 @@ My journey in Computer information Systems has led me to develop a passion for c
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
