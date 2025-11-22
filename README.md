@@ -1,7 +1,7 @@
 # Hello, I'm Aaron Hanna
 <a href="https://www.linkedin.com/in/aaron-hanna98900"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Motivated IT Support Specialist with hands-on experience in troubleshooting Windows/macOS, Active Directory administration, ticketing systems (ServiceNow/Jira), and small office networking. Strong communication skills with a customer-focused approach to resolving technical issues. Experienced in building real-world labs and support simulations that mirror enterprise IT environments
+Motivated IT Support Specialist with hands-on experience in troubleshooting Windows/macOS, Active Directory administration, ticketing systems (ServiceNow), and small office networking. Strong communication skills with a customer-focused approach to resolving technical issues. Experienced in building real-world labs and support simulations that mirror enterprise IT environments
 
 ## TECHNICAL SKILLS
 Operating Systems: Windows 10/11, Windows Server, macOS
