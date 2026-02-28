@@ -12,7 +12,7 @@ Networking: TCP/IP, DNS, DHCP, Subnetting, Ping/Tracert/Nslookup
 
 Directory Services: Active Directory, Group Policy, User/Group Management
 
-Tools: VMware/VirtualBox, Cisco Packet Tracer
+Tools: VMware/VirtualBox,ProxmoxVM, Cisco Packet Tracer, Splunk
 
 Soft Skills: Customer Service, Documentation, Communication, Problem Solving
 
@@ -22,10 +22,10 @@ Soft Skills: Customer Service, Documentation, Communication, Problem Solving
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ahanna1997/Detection-Lab.git">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ahanna1997/Detection-Lab-2.git">Detection Lab 2</a>|
-| IT Help Desk Ticketing Simulation in ServiceNow | SOC Automation Lab|
-| Windows + Active Directory Troubleshooting Lab  | SOC Automation Lab|
-| Small Office Network Build & Troubleshooting Guide | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ahanna1997/Detection-Lab-2.git"> Detection Lab 2</a>|
+| IT Help Desk Ticketing Simulation in ServiceNow |<a href="https://github.com/ahanna1997/Detection-Lab.git"> IT Help Desk Ticketing Simulation</a> |
+| Windows + Active Directory Troubleshooting Lab  | <a href="https://github.com/ahanna1997/Detection-Lab.git"> Windows + Active Directory Troubleshooting Lab</a>|
+| Small Office Network Build & Troubleshooting Guide |<a href="https://github.com/ahanna1997/Detection-Lab.git"> Small Office Network Build & Troubleshooting Lab </a> |
 
 
 
