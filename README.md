@@ -6,7 +6,7 @@ Jacksonville, FL | Open to relocate | Remote
 
 <a href="https://www.linkedin.com/in/aaron-hanna98900"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Entry level Cybersecurity analyst specializing in SEIM operations, detection engineering, and incident response. Hands on using Splunk, Elastic SIEM, Wireshark and, Zeek to identify and respond to threats in a real-world enterprise environment. Certified in CompTIA Security+ and AZ-900, with practical knowledge MITRE ATT&CK framework mapping, alert triage, CIA, and Python-based automation to improve detection accuracy and incident response efficiency. 
+Entry level Cybersecurity analyst specializing in SEIM operations, detection engineering, and incident response. Hands on using Splunk, Wireshark  to identify and respond to threats in a real-world enterprise environment. Certified in CompTIA Security+ and AZ-900, with practical knowledge MITRE ATT&CK framework mapping, alert triage, CIA, and Python-based automation to improve detection accuracy and incident response efficiency. 
 
 ## CERTIFICATIONS 
 
@@ -15,8 +15,6 @@ Entry level Cybersecurity analyst specializing in SEIM operations, detection eng
  AZ-900 (March 2026)   
 
 ## TECHNICAL SKILLS 
-
- 
 
 Network security & Forensics 
 
