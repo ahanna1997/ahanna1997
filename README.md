@@ -8,7 +8,7 @@ Jacksonville, FL | Open to relocate | Remote
 
 Entry level Cybersecurity analyst specializing in SEIM operations, detection engineering, and incident response. Hands on using Splunk, Elastic SIEM, Wireshark and, Zeek to identify and respond to threats in a real-world enterprise environment. Certified in CompTIA Security+ and AZ-900, with practical knowledge MITRE ATT&CK framework mapping, alert triage, CIA, and Python-based automation to improve detection accuracy and incident response efficiency. 
 
-##CERTIFICATIONS 
+## CERTIFICATIONS 
 
  CompTIA Security+ November 2025 
 
