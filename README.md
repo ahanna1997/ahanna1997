@@ -1,21 +1,47 @@
-# Hello, I'm Aaron Hanna
+Aaron Hanna | aaron.hanna.ah@gmail.com  | (904) 882-0782   
+
+Cybersecurity Analyst | Data Security Engineer 
+
+Jacksonville, FL | Open to relocate | Remote 
+
 <a href="https://www.linkedin.com/in/aaron-hanna98900"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Motivated IT Support Specialist with hands-on experience in troubleshooting Windows/macOS, Active Directory administration, ticketing systems (ServiceNow), and small office networking. Strong communication skills with a customer-focused approach to resolving technical issues. Experienced in building real-world labs and support simulations that mirror enterprise IT environments
+Entry level Cybersecurity analyst specializing in SEIM operations, detection engineering, and incident response. Hands on using Splunk, Elastic SIEM, Wireshark and, Zeek to identify and respond to threats in a real-world enterprise environment. Certified in CompTIA Security+ and AZ-900, with practical knowledge MITRE ATT&CK framework mapping, alert triage, CIA, and Python-based automation to improve detection accuracy and incident response efficiency. 
 
-## TECHNICAL SKILLS
-Operating Systems: Windows 10/11, Windows Server, macOS
+##CERTIFICATIONS 
 
-Ticketing Systems: ServiceNow, Jira Service Management
+ CompTIA Security+ November 2025 
 
-Networking: TCP/IP, DNS, DHCP, Subnetting, Ping/Tracert/Nslookup
+ AZ-900 (March 2026)   
 
-Directory Services: Active Directory, Group Policy, User/Group Management
+## TECHNICAL SKILLS 
 
-Tools: VMware/VirtualBox,ProxmoxVM, Cisco Packet Tracer, Splunk
+ 
 
-Soft Skills: Customer Service, Documentation, Communication, Problem Solving
+Network security & Forensics 
 
+Wireshark, Zeek, Suricata, Docket, Packet capture analysis, protocol investigation TCP stream reconstruction, IDS/IPS alert analysis, PCAP filtering ,NetworkMiner 
+
+  
+Threat Detection & Response 
+
+MITRE ATT&CK framework mapping, IOC analysis, incident timeline reconstruction, threat hunting methodologies, brute force attack& detection, data exfiltrating, digital forensics investigation  
+
+ 
+
+Protocols & Standards  
+
+TCP/IP, DNS, FTP, SMB, SSL/TLS, IPsec, HTTP 
+
+ HIPPA, GDPR, IPR , PCI DSS, NIST CSF, ISO,CCPA 
+
+ 
+
+Programming Languages and Automation 
+
+Python, C++, SQL, Bash 
+
+ 
 
 ## Projects/Homelabs 
 
