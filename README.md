@@ -23,9 +23,9 @@ Soft Skills: Customer Service, Documentation, Communication, Problem Solving
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ahanna1997/Detection-Lab.git">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ahanna1997/Detection-Lab-2.git"> Detection Lab 2</a>|
-| IT Help Desk Ticketing Simulation in ServiceNow |<a href="https://github.com/ahanna1997/Detection-Lab.git"> IT Help Desk Ticketing Simulation</a> |
-| Windows + Active Directory Troubleshooting Lab  | <a href="https://github.com/ahanna1997/Detection-Lab.git"> Windows + Active Directory Troubleshooting Lab</a>|
-| Small Office Network Build & Troubleshooting Guide |<a href="https://github.com/ahanna1997/Detection-Lab.git"> Small Office Network Build & Troubleshooting Lab </a> |
+| IT Help Desk Ticketing Simulation in ServiceNow |<a href="https://github.com/ahanna1997/IT-Help-Desk-Ticketing-Simulation-.git"> IT Help Desk Ticketing Simulation</a> |
+| Windows + Active Directory Troubleshooting Lab  | <a href="https://github.com/ahanna1997/Windows-Active-Directory-Troubleshooting-Lab.git"> Windows + Active Directory Troubleshooting Lab</a>|
+| Small Office Network Build & Troubleshooting Guide |<a href="https://github.com/ahanna1997/Small-Office-Network-Build-Troubleshooting-Guide.git"> Small Office Network Build & Troubleshooting Lab </a> |
 
 
 
